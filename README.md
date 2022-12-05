@@ -2,7 +2,7 @@
 CMSE202 Fall 202 Team lakeside view final project turn-in
 
 
-##Contents:
+## Contents:
 1. Presentation
 2. Notebook
 3. Mich_Images:
